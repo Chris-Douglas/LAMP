@@ -32,6 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
                 $emailErr = "Invalid email format";
             }
         }  
+        
 }
 function test_input($data) {
     $data = trim($data);
