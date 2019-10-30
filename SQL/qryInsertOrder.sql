@@ -1,0 +1,13 @@
+INTERT INTO Orders
+(CustID, OrderDate, NumberOrdered, QuotedPrice, PartNum)
+VALUES (1, NOW(), 41, 2000, 10)
+(1, NOW(), 60, 2000, 12)
+(14, NOW(), 57, 546, 25)
+(5, NOW(), 47, 240, 17)
+(7, NOW(), 68, 754, 1)
+(4, NOW(), 56, 160, 18)
+(20, NOW(), 70, 240, 8)
+(9, NOW(), 68, 424, 22)
+(11, NOW(), 44, 743, 11)
+(2, NOW(), 65, 1346, 7)
+(18, NOW(), 49, 5670, 3)
